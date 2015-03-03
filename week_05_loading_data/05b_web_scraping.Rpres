@@ -29,7 +29,7 @@ magrittr
 selectorGadget
 ========================================================
 
-Allows you to interactively click on parts of a web page and use a process of positive nad negative seletcion to generate CSS selectors for targeted information.
+Allows you to interactively click on parts of a web page and use a process of positive and negative selection to generate CSS selectors for targeted information.
 
 rvest
 ===
